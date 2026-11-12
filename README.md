@@ -4,8 +4,7 @@ An offline-first, location-triggered audio storytelling app for a Story Walk in 
 
 The first story is *Kitty: A Farndale Ghost Story*. As walkers follow a designated route, the app plays sections of the story at set locations, using narration, character voices, music and sound effects. At selected points, walkers may make a choice that changes what they hear next.
 
-> **Status:** Early planning. The repository currently contains only three sample audio files (MP3, 128 kbps) that will be used to build the first prototype. Development of the full app is planned for 2027–28, subject to funding.
-
+> **Status:** Early planning. The repository currently contains only three sample audio files (MP3, 128 kbps) that will be used to build the first prototype.
 ---
 
 ## Aims
